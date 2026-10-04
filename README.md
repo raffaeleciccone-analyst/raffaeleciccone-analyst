@@ -4,7 +4,7 @@ SQL · Power BI (DAX) · Python · Excel. Studente ITS Data Analyst a Roma, **di
 
 Scrivo la domanda prima di aprire i dati, e accanto ai risultati scrivo cosa non dimostrano.
 
-Domanda, metodo e controllo dei numeri sono miei; il codice lo produco con l'IA e ne verifico i risultati.
+Come lavoro: imposto la domanda e il metodo e verifico i risultati sui dati; il codice lo scrivo con l'aiuto dell'IA.
 
 | Progetto | Cosa ho trovato | Strumenti |
 |---|---|---|
