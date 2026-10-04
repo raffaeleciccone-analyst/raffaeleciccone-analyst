@@ -4,7 +4,7 @@ SQL · Power BI (DAX) · Python · Excel. Studente ITS Data Analyst a Roma, **di
 
 Scrivo la domanda prima di aprire i dati, e accanto ai risultati scrivo cosa non dimostrano.
 
-Uso l'IA come un collega. Il ragionamento analitico lo metto io: la domanda, il metodo, cosa un numero dimostra e cosa no. All'LLM lascio il lavoro sporco: scrivere il codice, generare le pagine, rifare i conti ripetitivi.
+Domanda, metodo e controllo dei numeri sono miei; il codice lo produco con l'IA e ne verifico i risultati.
 
 | Progetto | Cosa ho trovato | Strumenti |
 |---|---|---|
