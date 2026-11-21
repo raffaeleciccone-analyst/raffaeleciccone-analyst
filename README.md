@@ -9,7 +9,7 @@ Parto sempre da una domanda di business, la scrivo prima di aprire i dati e acca
 | Progetto | Cosa ho trovato | Strumenti |
 |---|---|---|
 | [Ritardi di consegna](https://github.com/raffaeleciccone-analyst/delivery-delay-impact) | Chi riceve il pacco in ritardo lascia il doppio di recensioni negative (19% contro 9%), e 7 clienti su 10 recensiscono prima ancora di riceverlo | Power BI, DAX, Power Query |
-| [Quanto vale un cliente che torna](https://github.com/raffaeleciccone-analyst/clienti-che-tornano) | La retention dipende dal mese più che dall'anzianità del cliente: torna il 25% dei clienti a novembre, il 12% a febbraio | MySQL, Python |
+| [Quanto vale un cliente che torna](https://github.com/raffaeleciccone-analyst/clienti-che-tornano) | La retention dipende dal mese più che dall'anzianità del cliente: torna il 25% dei clienti a novembre, il 12% a febbraio. [Pagina interattiva](https://raffaeleciccone-analyst.github.io/clienti-che-tornano/) | MySQL, Python |
 | [Natural Language Data Analyst](https://github.com/raffaeleciccone-analyst/Natural-Language-Data-Analyst) | Fai domande ai dati in italiano: l'IA scrive il codice pandas, controlli automatici lo verificano. [Demo online](https://nlda.onrender.com) | Python, FastAPI, React |
 | [Football Scout Index](https://raffaeleciccone-analyst.github.io/serie-a-index/) | Classifica dei giocatori di Serie A e Premier League aggiornata ogni giornata, con 15 test di validazione pubblicati, compresi quelli non superati | Python, MySQL |
 
