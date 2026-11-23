@@ -10,7 +10,7 @@ Parto sempre da una domanda di business, la scrivo prima di aprire i dati e acca
 |---|---|---|
 | [Ritardi di consegna](https://github.com/raffaeleciccone-analyst/delivery-delay-impact) | Chi riceve il pacco in ritardo lascia il doppio di recensioni negative (19% contro 9%), e 7 clienti su 10 recensiscono prima ancora di riceverlo | Power BI, DAX, Power Query |
 | [Quanto vale un cliente che torna](https://github.com/raffaeleciccone-analyst/clienti-che-tornano) | La retention dipende dal mese più che dall'anzianità del cliente: torna il 25% dei clienti a novembre, il 12% a febbraio. [Pagina interattiva](https://raffaeleciccone-analyst.github.io/clienti-che-tornano/) | MySQL, Python |
-| [QUID](https://github.com/raffaeleciccone-analyst/quid) | Domande in italiano su estratto conto e vendite: l'IA capisce la domanda, i numeri li calcola il programma. [Demo online](https://quid-piz0.onrender.com) | Python, FastAPI, pandas |
+| [QUID](https://github.com/raffaeleciccone-analyst/quid) | Domande in italiano su estratto conto e vendite: l'IA capisce la domanda, i numeri li calcola il programma. [Demo online](https://quid-dati.onrender.com) | Python, FastAPI, pandas |
 | [Football Scout Index](https://github.com/raffaeleciccone-analyst/football-scout-index) | Chi farà bene la prossima stagione: la previsione si mostra solo dove batte la statistica semplice su stagioni mai viste. In Premier League sì (0,82 contro 0,78), in Serie A non ancora, e il sito lo dice. [Sito online](https://raffaeleciccone-analyst.github.io/football-scout-index/) | Python, scikit-learn |
 
 Dal 2021 gestisco il B&B di famiglia. Per gestirlo ho costruito **MyB&B**, un gestionale su PostgreSQL che usiamo ogni giorno (repository privato, posso mostrarlo in colloquio).
